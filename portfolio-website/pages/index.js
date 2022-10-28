@@ -49,6 +49,7 @@ export default function Home() {
 							width={300}
 							height={450}
 							src={myPic}
+              alt="A picture of me"
 						/>
 					</div>
 				</div>
@@ -73,7 +74,7 @@ export default function Home() {
 										src={cafeImg1}
 										width={144}
 										height={100}
-										alt="Portfolio website image"
+										alt="image of a internet cafe"
 									/>
 								</div>
 							</div>
@@ -83,7 +84,7 @@ export default function Home() {
 										src={cafeImg2}
 										width={144}
 										height={100}
-										alt="TODO app image"
+										alt="image of a internet cafe"
 									/>
 								</div>
 							</div>
@@ -94,7 +95,7 @@ export default function Home() {
 										src={cafeImg3}
 										width={144}
 										height={100}
-										alt="TODO app image"
+										alt="image of a internet cafe"
 									/>
 								</div>
 							</div>
@@ -108,8 +109,7 @@ export default function Home() {
 						was interacting with the terminal even though I didn't
 						even know what it was back then as I was only about 10
 						years old, the only that mattered to me was that it
-						looked really cool. To <strong>'Hackers'</strong> and{" "}
-						<strong>'Unfriended: Dark Web'</strong> this is where I
+						looked really cool. To <strong>'Hackers'</strong> and	<strong>'Unfriended: Dark Web'</strong> this is where I
 						got introduced to what is code which lead me to do
 						research and actually find out that programming is real
 						thing and not just something from the movies. And from
@@ -126,7 +126,7 @@ export default function Home() {
 										src={moveImg1}
 										width={144}
 										height={100}
-										alt="Portfolio website image"
+										alt="Hackers movie cover"
 									/>
 								</div>
 								<p>Hackers</p>
@@ -137,7 +137,7 @@ export default function Home() {
 										src={moveImg2}
 										width={144}
 										height={100}
-										alt="TODO app image"
+										alt="The Matrix movie cover"
 									/>
 								</div>
 								<p>The Matrix</p>
@@ -149,7 +149,7 @@ export default function Home() {
 										src={moveImg3}
 										width={144}
 										height={100}
-										alt="TODO app image"
+										alt="Unfriend Dark Web movie cover"
 									/>
 								</div>
 								<p>Unfriended Dark Web</p>
@@ -184,8 +184,7 @@ export default function Home() {
 						Software Developer from the day they came to partner day
 						at WeThinkCode_. They had ticked all the boxes I had in
 						my head from the conversation we had with the Noami and
-						the rest of the staff that were present that day.{" "}
-					</p>
+						the rest of the staff that were present that day.</p>
 
 					<p>
 						With the graduate programme being a place that fosters
@@ -234,7 +233,7 @@ export default function Home() {
 										src={devConImg1}
 										width={200}
 										height={250}
-										alt="Portfolio website image"
+										alt="A picture of me at a I Code Java Confrence"
 									/>
 								</div>
 								<p>I Code Java Confrence</p>
@@ -247,7 +246,7 @@ export default function Home() {
 										src={devConImg3}
 										width={200}
 										height={250}
-										alt="TODO app image"
+										alt="A picture of me at a NodeJsOne Africa Confrence"
 									/>
 								</div>
 								<p>NodeJsOne Africa Confrence</p>
@@ -260,7 +259,7 @@ export default function Home() {
 										src={devConImg4}
 										width={200}
 										height={250}
-										alt="TODO app image"
+										alt="A picture of me at a NodeJsOne Africa Confrence"
 									/>
 								</div>
 								<p>NodeJsOne Africa Confrence</p>
@@ -283,7 +282,6 @@ export default function Home() {
 						</a>
 					</button>
 					<button>
-						{" "}
 						<a href="https://github.com/YonelaKen/" target="_blank">
 							Github
 						</a>
