@@ -104,12 +104,12 @@ export default function Home() {
 
 					<h2>How did I develop the love for programming:</h2>
 					<p>
-						It's always been movies that sold me the dream of being
-						a programmer from <strong>'The Matrix'</strong> when Neo
-						was interacting with the terminal even though I didn't
+						It&apos;s always been movies that sold me the dream of being
+						a programmer from <strong>&apos;The Matrix&apos;</strong> when Neo
+						was interacting with the terminal even though I didn&apos;t
 						even know what it was back then as I was only about 10
 						years old, the only that mattered to me was that it
-						looked really cool. To <strong>'Hackers'</strong> and	<strong>'Unfriended: Dark Web'</strong> this is where I
+						looked really cool. To <strong>&apos;Hackers&apos;</strong> and	<strong>&apos;Unfriended: Dark Web&apos;</strong> this is where I
 						got introduced to what is code which lead me to do
 						research and actually find out that programming is real
 						thing and not just something from the movies. And from
@@ -221,7 +221,7 @@ export default function Home() {
 					<p>
 						I recently attended my first dev con this year in
 						September. And all I have to say is that I love them, if
-						I could I would attend them as much as possible. It's
+						I could I would attend them as much as possible. It&apos;s
 						the one place whereby I can be a nerd in peace.
 					</p>
 					<div className="content">
@@ -276,19 +276,19 @@ export default function Home() {
 					<button>
 						<a
 							href="https://www.linkedin.com/in/yonela-makhubalo-4464b9192"
-							target="_blank"
+							target="_blank" rel="noreferrer" 
 						>
 							Linkedin
 						</a>
 					</button>
 					<button>
-						<a href="https://github.com/YonelaKen/" target="_blank">
+						<a href="https://github.com/YonelaKen/" rel="noreferrer"  target="_blank">
 							Github
 						</a>
 					</button>
 					<button>
 						<a
-							href="mailto:yonelakennymakhubs@gmail.com"
+							href="mailto:yonelakennymakhubs@gmail.com" rel="noreferrer" 
 							target="_blank"
 						>
 							Send Email
