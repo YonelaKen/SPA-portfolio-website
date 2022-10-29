@@ -2,11 +2,15 @@
 This application was built using the Next.js framework. And is hosted on Vercel.
 
 To acces the site you can use the following links:
+
 https://spa-portfolio-website-ocll.vercel.app/
+
 https://spa-portfolio-website-ocll-yonelaken.vercel.app/
+
 https://spa-portfolio-website-ocll-git-main-yonelaken.vercel.app/
 
 You can also clone the repo and run it on your local machine (NB please make sure you have the right tools to use nextJs on your machine).
+Please refer to https://nextjs.org/docs#system-requirements to set up your machine.
 
 first run cd portfolio-website/ in your terminal
 then procced to enter npm run dev to start the application
