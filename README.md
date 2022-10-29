@@ -12,8 +12,8 @@ https://spa-portfolio-website-ocll-git-main-yonelaken.vercel.app/
 You can also clone the repo and run it on your local machine (NB please make sure you have the right tools to use nextJs on your machine).
 Please refer to https://nextjs.org/docs#system-requirements to set up your machine.
 
-first run cd portfolio-website/ in your terminal
-then procced to enter npm run dev to start the application
+After cloning execute cd portfolio-website/ in your terminal
+then procced to enter npm run dev or yarn dev to start the application
 
 Once successfully done with the above steps. You can access the site on your local machine using the localhost and along with the provided port 
 e.g  http://localhost:3000
